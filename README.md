@@ -1,10 +1,7 @@
 # MNIST Digit Classifier
 
-This project aims to **explore different recognition and classification machine learning algorithms**, including **for now only logistic regression**.
-The well-known **MNIST dataset** is used for all experiments, and a detailed report (in IEEE format) is included in the `Documents` folder.
- 
-
-A detailed report (in IEEE format) is included in the `Documents` folder.
+This project aims to explore different recognition and classification machine learning algorithms, including for now only **logistic regression**.
+The well-known **MNIST dataset** is used for all experiments.
 
 ---
 
